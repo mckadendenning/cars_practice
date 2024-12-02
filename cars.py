@@ -11,7 +11,7 @@ cars.pop(4)
 print(cars)
 cars = sorted(cars)
 print(cars)
-cars = sorted(cars, reverse=True)
+cars = sorted(cars, reverse = True)
 print(cars)
 my_array_length = len(cars)
 array_string = 'The length of my array is '
